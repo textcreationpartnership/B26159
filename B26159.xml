@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At a court of the right honourable president and governors for the poor of the City of London, holden at Guild-Hall, on Thursday the 25th day of May, 1699.</title>
+            <author>Governors for the Poor (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26159</idno>
+            <idno type="STC">Wing L2878</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.9[7]</idno>
+            <idno type="STC">ESTC R224575</idno>
+            <idno type="EEBO-CITATION">99885519</idno>
+            <idno type="PROQUEST">ocm99885519</idno>
+            <idno type="VID">185214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B26159)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185214)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:1[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At a court of the right honourable president and governors for the poor of the City of London, holden at Guild-Hall, on Thursday the 25th day of May, 1699.</title>
+                  <author>Governors for the Poor (London, England)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at foot: Augustine Ballowe, Sec.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor laws --  England --  Early works to 1800.</term>
+               <term>Poor --  Services for --  England --  Early works to 1800.</term>
+               <term>Poor --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185214:1" rendition="simple:additions"/>
+            <head>At a Court of the Right Honourable THE PRESIDENT and GOVERNORS FOR THE POOR of the City of London,</head>
+            <opener>
+               <dateline>Holden at <hi>Guild-Hall,</hi> on <date>
+                     <hi>Thurſday</hi> the 25th day of <hi>May,</hi> 1699.</date>
+               </dateline>
+            </opener>
+            <p>FOraſmuch as frequent Complaints have been made to this Court, of the daily Encreaſe of Beggers, within this City and Liberties, to the great Diſhonour thereof, and to the no ſmall Prejudice, and Annoyance of the ſeveral Inhabitants therein, and to the manifeſt Diſcouragement of that Uſeful and Neceſſary Art of Spinning, and other Imployments deſigned for ſetting the Poor at Work, and at this time, by this Court, earneſtly endeavoured, to be advanced in the ſaid City: For that few, or none will be willing to Work, as is evident from daily Experience, while they have any hopes left, of getting more Money by Begging.</p>
+            <p>For Prevention therefore of theſe growing Evils and Miſchiefs, and that the Streets may not be Annoyed and Peſtered as heretofore, by Rogues, Vagrants, and ſturdy Beggers; All Conſtables of this City and Liberties, are hereby ſtrictly Charged and Required, to Ap<g ref="char:EOLhyphen"/>prehend all Rogues, Vagrants, and ſturdy Beggers, that ſhall be Begging or Wandering within the ſame, and to ſend them after Whipping of them, to the Pariſh where they were Born, if known, or if not, to the Pariſh where they laſt Dwelt, for the ſpace of one whole Year; or if that be unknown, then to the Place, where they paſſed laſt through, with<g ref="char:EOLhyphen"/>out Puniſhment.</p>
+            <p>And for the better Information of all Conſtables, of their Duty herein, they are hereby required to take Notice, That by the 39 <hi>Eliz. Cap.</hi> 4. every Conſtable that doth not his beſt Endeavour, to Apprehend Rogues, Vagabonds, and ſturdy Beggers, and to cauſe them to be Puniſhed, Forfeits Ten Shillings for every Default. And that every Perſon, hindering any part of the Execution of that Law, Forfeits Five Pounds, and is to be Bound to the good Behaviour.</p>
+            <p>And that by the Firſt of King <hi>James</hi> 1. <hi>Chap.</hi> 7. all Conſtables refuſing to Puniſh and Convey Vagabonds, Forfeit Twenty Shillings, And that for the future, all the ſaid Forfeitures ſhall be conſtantly Levyed.</p>
+            <p>And that nothing may be wanting, to put a ſtop to the Growth and Increaſe of Beggers within this City, The City-Marſhals, and all their Men, as well Beadles of the ſeveral Ho<g ref="char:EOLhyphen"/>ſpitals, as others, are hereby alſo ſtrictly Charged and Required, to Apprehend all Perſons Begging in the Streets, and to carry them before ſome of his Majeſty's Juſtices of the Peace, for this City and Liberties, to be farther dealt with, according to Law, And that of ſuch their Proceedings, they bring unto this Court, a true Account in Writing, every <hi>Thurſday</hi> Morn<g ref="char:EOLhyphen"/>ing, at Eight of the Clock.</p>
+            <p>And the Beadle of each and every Ward within the City aforeſaid, is hereby alſo Required and Enjoined, Weekly and every Week, to call upon all and every the Conſtables within that Ward, to which he the ſaid Beadle doth belong, for a true, full, and perfect Account, of the Proceedings alſo of every of the ſaid Conſtables, relating to the Matters aforeſaid, and each and every of them, is hereby required to Deliver the ſame accordingly.</p>
+            <p>And the ſaid Account and Accounts ſo received, the ſaid Beadle is further required and en<g ref="char:EOLhyphen"/>joined to bring unto the ſaid Court, at the Day and Hour aforeſaid: And alſo to be Aiding and Aſſiſting to every of the ſaid Conſtables, in the Apprehending and Puniſhing all Beggers, according to Law. And likewiſe to give an Account of all ſuch Conſtables, as have not their Staves or Laths painted and put up at their Doors, according to the antient Uſage and Cuſtom of this City.</p>
+            <closer>
+               <signed>
+                  <hi>Auguſti<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Ballowe,</hi> Sec.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
